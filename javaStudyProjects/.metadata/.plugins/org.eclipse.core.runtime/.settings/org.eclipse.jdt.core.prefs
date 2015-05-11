@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.7
+org.eclipse.jdt.core.compiler.compliance=1.7
+org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+org.eclipse.jdt.core.compiler.source=1.7
+org.eclipse.jdt.core.userLibrary.poi=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="C\:/Users/qitian/Downloads/poi/poi-3.12-beta1/poi-3.12-beta1-20150228.jar"/>\r\n\t<archive path\="C\:/Users/qitian/Downloads/poi/poi-3.12-beta1/poi-examples-3.12-beta1-20150228.jar"/>\r\n\t<archive path\="C\:/Users/qitian/Downloads/poi/poi-3.12-beta1/poi-excelant-3.12-beta1-20150228.jar"/>\r\n\t<archive path\="C\:/Users/qitian/Downloads/poi/poi-3.12-beta1/poi-ooxml-3.12-beta1-20150228.jar"/>\r\n\t<archive path\="C\:/Users/qitian/Downloads/poi/poi-3.12-beta1/poi-ooxml-schemas-3.12-beta1-20150228.jar"/>\r\n\t<archive path\="C\:/Users/qitian/Downloads/poi/poi-3.12-beta1/poi-scratchpad-3.12-beta1-20150228.jar"/>\r\n</userlibrary>\r\n

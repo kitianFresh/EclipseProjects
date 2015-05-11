@@ -1,0 +1,22 @@
+package test;
+
+enum student{
+	A(111),
+	B(222),
+	C(333);
+	private int num;
+	
+	student(int num){
+		this.num=num;
+		System.out.println("执行过构造方法");
+	}
+	int getnum(){
+		return num;
+	}
+}
+	public class EnumTest {
+	public static void main(String[] args) {
+	// TODO Auto-generated method stub\
+		System.out.println(student.A.getnum());
+	}
+}

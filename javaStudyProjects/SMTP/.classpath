@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/Ksoap2+AXIS2+ANT开发包/sun.misc.BASE64Decoder.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qitian/Downloads/mail.jar_activation.jar/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qitian/Downloads/mail.jar_activation.jar/mail.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,43 @@
+package com;
+
+class Student {
+	private String stuName;
+	private String stuId;
+	private double course1Grade;
+	public String getStuName() {
+		return stuName;
+	}
+	public void setStuName(String stuName) {
+		this.stuName = stuName;
+	}
+	public String getStuId() {
+		return stuId;
+	}
+	public void setStuId(String stuId) {
+		this.stuId = stuId;
+	}
+	public double getCourse1Grade() {
+		return course1Grade;
+	}
+	public void setCourse1Grade(double course1Grade) {
+		this.course1Grade = course1Grade;
+	}
+	public double getCourse2Grade() {
+		return course2Grade;
+	}
+	public void setCourse2Grade(double course2Grade) {
+		this.course2Grade = course2Grade;
+	}
+	public double getCourse3Grade() {
+		return course3Grade;
+	}
+	public void setCourse3Grade(double course3Grade) {
+		this.course3Grade = course3Grade;
+	}
+	private double course2Grade;
+	private double course3Grade;
+}
+
+public class ScoreStu {
+	
+}

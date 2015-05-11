@@ -1,0 +1,25 @@
+package com;
+
+import java.io.File;
+
+public class FileDir {
+
+	File[] files = null;
+	
+	public void listFiles(File file){
+		System.out.println(file.getName());
+		if(file.isDirectory()){
+			files = file.listFiles();
+			
+			for(int i=0;i<files.length;i++){
+				this.listFiles(files[i]);
+			}
+		}
+	}
+	public static void main(String[] args) {
+		File file = new File(args[0]);
+		
+		
+	}
+
+}

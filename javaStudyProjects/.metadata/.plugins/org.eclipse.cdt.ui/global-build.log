@@ -1,0 +1,12 @@
+11:46:19 **** Clean-only build of configuration Debug for project hotspot ****
+make clean 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/Program Files/Java/jre7/bin/client;C:/Program Files/Java/jre7/bin;C:/Program Files/Java/jre7/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.7.0_67\bin;C:\Program Files\Java\jdk1.7.0_67\jre\bin;E:\apache-tomcat-8.0.5\bin;E:\axis2-1.6.2-bin\axis2-1.6.2\bin;E:\apache-ant-1.9.4-bin\apache-ant-1.9.4\bin;E:\AndroidDevelop\adt-bundle-windows-x86-20140702\sdk\tools;E:\AndroidDevelop\adt-bundle-windows-x86-20140702\sdk\platform-tools;C:\Program Files\MySQL\MySQL Server 5.5\bin;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;;E:\Eclipse\eclipse;]
+11:53:11 **** Clean-only build of configuration Debug for project hotspot ****
+make clean 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/Program Files/Java/jre7/bin/client;C:/Program Files/Java/jre7/bin;C:/Program Files/Java/jre7/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.7.0_67\bin;C:\Program Files\Java\jdk1.7.0_67\jre\bin;E:\apache-tomcat-8.0.5\bin;E:\axis2-1.6.2-bin\axis2-1.6.2\bin;E:\apache-ant-1.9.4-bin\apache-ant-1.9.4\bin;E:\AndroidDevelop\adt-bundle-windows-x86-20140702\sdk\tools;E:\AndroidDevelop\adt-bundle-windows-x86-20140702\sdk\platform-tools;C:\Program Files\MySQL\MySQL Server 5.5\bin;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;;E:\Eclipse\eclipse;]

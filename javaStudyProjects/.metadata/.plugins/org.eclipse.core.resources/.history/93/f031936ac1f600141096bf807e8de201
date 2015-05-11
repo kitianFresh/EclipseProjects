@@ -1,0 +1,40 @@
+package com;
+
+import java.io.BufferedReader;
+import java.io.DataInputStream;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+public class ArraySort {
+
+	public static void main(String[] args) {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		DataInputStream dis = new DataInputStream(System.in);
+		Integer[] arr = new Integer[10];
+		int temp;
+		String str=null;
+		String[] list = new String[10];
+		try {
+			for(int i=0;(str=br.readLine())!=null;i++){
+				list = str.split(" ");
+			}
+			for(int i=0;(temp=dis.readInt())!='#';i++){
+				arr[i] = temp;
+			}
+		} catch (IOException e) {
+			e.printStackTrace();
+		} finally {
+				try {
+					if(dis == null) dis.close();
+				} catch (IOException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+		}
+		
+		for(int i=0;i<10;i++){
+			System.out.println(arr[i]);
+		}
+	}
+
+}

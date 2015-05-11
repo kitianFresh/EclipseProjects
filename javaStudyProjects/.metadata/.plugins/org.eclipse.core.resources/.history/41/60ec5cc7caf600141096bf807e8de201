@@ -1,0 +1,16 @@
+package com;
+
+import java.io.File;
+
+public class FileDir {
+
+	File[] files = null;
+	public static void main(String[] args) {
+		File file = new File(args[0]);
+		
+		if(file.isDirectory()){
+			files = file.listFiles();
+		}
+	}
+
+}

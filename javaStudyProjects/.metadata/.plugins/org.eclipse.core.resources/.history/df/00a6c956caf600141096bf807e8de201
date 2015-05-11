@@ -1,0 +1,11 @@
+package com;
+
+import java.io.File;
+
+public class FileDir {
+
+	public static void main(String[] args) {
+		File file = new File();
+	}
+
+}

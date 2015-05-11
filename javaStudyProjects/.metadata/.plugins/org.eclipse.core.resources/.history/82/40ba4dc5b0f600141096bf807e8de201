@@ -1,0 +1,27 @@
+package test;
+
+public class FinallyReturn {
+	  public static void main(String[] args) {  
+		  6.        System.err.println(new Test().method1());  
+		  7.        System.err.println(new Test().method2());  
+		  8.    }  
+		  9.      
+		  10.    public int method1() {  
+		  11.        int x = 1;  
+		  12.        try {  
+		  13.            return x;  
+		  14.        } finally {  
+		  15.            ++x;  
+		  16.        }  
+		  17.    }  
+		  18.      
+		  19.    public int method2() {  
+		  20.        int x = 1;  
+		  21.        try {  
+		  22.            return x;  
+		  23.        } finally {  
+		  24.            return ++x;  
+		  25.        }  
+		  26.    }  
+
+}
